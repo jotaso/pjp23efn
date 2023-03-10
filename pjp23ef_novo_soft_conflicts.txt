@@ -1,0 +1,16 @@
+﻿Conflitos leves de pjp23ef_novo.fet
+Gerado com FET 6.8.4 em 09/03/2023 21:19
+
+Número de restrições leves quebradas: 6
+Total de conflitos leves: 5.7
+
+Conflitos leves em ordem decrescente:
+
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=10 (    1/6 - Valentina - L. Portuguesa - 6º Ano A) conflita com a atividade com id=8 (    1/6 - Valentina - L. Portuguesa - 6º Ano A), sendo 1 dia(s) muito próximo(s), nos dias Quinta-feira e Quinta-feira, Incremento no fator de conflitos=0.95. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=108 (    1/4 - Patricia B. - Geografia - 7º Ano A) conflita com a atividade com id=105 (1/4 -     Patricia B. - Geografia - 7º Ano A), sendo 1 dia(s) muito próximo(s), nos dias Quarta-feira e Quarta-feira, Incremento no fator de conflitos=0.95. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=133 (    1/6 - André - Matemática - 6º Ano A) conflita com a atividade com id=130 (    1/6 - André - Matemática - 6º Ano A), sendo 1 dia(s) muito próximo(s), nos dias Terça-feira e Terça-feira, Incremento no fator de conflitos=0.95. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=138 (    1/6 - André - Matemática - 6º Ano B) conflita com a atividade com id=135 (    1/6 - André - Matemática - 6º Ano B), sendo 1 dia(s) muito próximo(s), nos dias Segunda-feira e Segunda-feira, Incremento no fator de conflitos=0.95. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=223 (    1/4 - J. Marcos - Ciências - 6º Ano A) conflita com a atividade com id=222 (    1/4 - J. Marcos - Ciências - 6º Ano A), sendo 1 dia(s) muito próximo(s), nos dias Quarta-feira e Quarta-feira, Incremento no fator de conflitos=0.95. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=246 (    1/6 - Marilena - L. Portuguesa - 8º Ano B) conflita com a atividade com id=245 (    1/6 - Marilena - L. Portuguesa - 8º Ano B), sendo 1 dia(s) muito próximo(s), nos dias Quinta-feira e Quinta-feira, Incremento no fator de conflitos=0.95. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+
+Final do arquivo.
